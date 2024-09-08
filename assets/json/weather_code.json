@@ -1,0 +1,124 @@
+{
+    "weatherCode":[
+        {
+            "code": 0,
+            "information": "Unknown",
+            "imageUrl": null
+        },
+        {
+            "code": 1000,
+            "information": "Clear, Sunny",
+            "imageUrl": "https://files.readme.io/48b265b-weather_icon_small_ic_clear3x.png"
+        },
+        {
+            "code": 1100,
+            "information": "Mostly Clear",
+            "imageUrl": "https://files.readme.io/c3d2596-weather_icon_small_ic_mostly_clear3x.png"
+        },
+        {
+            "code": 1101,
+            "information": "Partly Cloudy",
+            "imageUrl": "https://files.readme.io/5ef9011-weather_icon_small_ic_partly_cloudy3x.png"
+        },
+        {
+            "code": 1102,
+            "information": "Mostly Cloudy",
+            "imageUrl": "https://files.readme.io/6beaa54-weather_icon_small_ic_mostly_cloudy3x.png"
+        },
+        {
+            "code": 1001,
+            "information": "Cloudy",
+            "imageUrl": "https://files.readme.io/4042728-weather_icon_small_ic_cloudy3x.png"
+        },
+        {
+            "code": 2000,
+            "information": "Fog",
+            "imageUrl": "https://files.readme.io/8d37852-weather_icon_small_ic_fog3x.png"
+        },
+        {
+            "code": 2100,
+            "information": "Light Fog",
+            "imageUrl": "https://files.readme.io/76580b9-weather_icon_small_ic_fog_light3x.png"
+        },
+        {
+            "code": 4000,
+            "information": "Drizzle",
+            "imageUrl": "https://files.readme.io/f22e925-weather_icon_small_ic_rain_drizzle3x.png"
+        },
+        {
+            "code": 4001,
+            "information": "Rain",
+            "imageUrl": "https://files.readme.io/aab8713-weather_icon_small_ic_rain3x.png"
+        },
+        {
+            "code": 4200,
+            "information": "Light Rain",
+            "imageUrl": "https://files.readme.io/ea98852-weather_icon_small_ic_rain_light3x.png"
+        },
+        {
+            "code": 4201,
+            "information": "Heavy Rain",
+            "imageUrl": "https://files.readme.io/fdacbb8-weather_icon_small_ic_rain_heavy3x.png"
+        },
+        {
+            "code": 5000,
+            "information": "Snow",
+            "imageUrl": "https://files.readme.io/731a898-weather_icon_small_ic_snow3x.png"
+        },
+        {
+            "code": 5001,
+            "information": "Flurries",
+            "imageUrl": "https://files.readme.io/1174193-weather_icon_small_ic_flurries3x.png"
+        },
+        {
+            "code": 5100,
+            "information": "Light Snow",
+            "imageUrl": "https://files.readme.io/c736bc9-weather_icon_small_ic_snow_light3x.png"
+        },
+        {
+            "code": 5101,
+            "information": "Heavy Snow",
+            "imageUrl": "https://files.readme.io/20c73b9-weather_icon_small_ic_snow_heavy3x.png"
+        },
+        {
+            "code": 6000,
+            "information": "Freezing Dizzle",
+            "imageUrl": "https://files.readme.io/43b5585-weather_icon_small_ic_freezing_rain_drizzle3x.png"
+        },
+        {
+            "code": 6001,
+            "information": "Freezing Rain",
+            "imageUrl": "https://files.readme.io/321062d-weather_icon_small_ic_freezing_rain3x.png"
+        },
+        {
+            "code": 6200,
+            "information": "Light Freezing Dizzle",
+            "imageUrl": "https://files.readme.io/9d1a4dc-weather_icon_small_ic_freezing_rain_light3x.png"
+        },
+        {
+            "code": 6201,
+            "information": "Heavy Freezing Rain",
+            "imageUrl": "https://files.readme.io/2f614b7-weather_icon_small_ic_freezing_rain_heavy3x.png"
+        },
+        {
+            "code": 7000,
+            "information": "Ice Pellets",
+            "imageUrl": "https://files.readme.io/314349c-weather_icon_small_ic_ice_pellets3x.png"
+        },
+        {
+            "code": 7101,
+            "information": "Heavy Ice Pellets",
+            "imageUrl": "https://files.readme.io/d5707d4-weather_icon_small_ic_ice_pellets_heavy3x.png"
+        },
+        {
+            "code": 7102,
+            "information": "Light Ice Pellets",
+            "imageUrl": "https://files.readme.io/8cde587-weather_icon_small_ic_ice_pellets_light3x.png"
+        },
+        {
+            "code": 8000,
+            "information": "Tundherstorm",
+            "imageUrl": "https://files.readme.io/39fb806-weather_icon_small_ic_tstorm3x.png"
+        }
+    ]
+}
