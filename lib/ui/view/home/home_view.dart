@@ -1,4 +1,4 @@
-import 'package:anggi_driweather/components/background.dart';
+import 'package:anggi_driweather/ui/components/background.dart';
 import 'package:anggi_driweather/controllers/maps_controller.dart';
 import 'package:anggi_driweather/controllers/notification_controller.dart';
 import 'package:anggi_driweather/controllers/weather_code_controller.dart';

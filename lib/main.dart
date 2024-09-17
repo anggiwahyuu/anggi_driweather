@@ -1,7 +1,7 @@
-import 'package:anggi_driweather/detail/detail_view.dart';
-import 'package:anggi_driweather/home/home_view.dart';
-import 'package:anggi_driweather/maps/maps_view.dart';
-import 'package:anggi_driweather/onboard/onboard_view.dart';
+import 'package:anggi_driweather/ui/view/detail/detail_view.dart';
+import 'package:anggi_driweather/ui/view/home/home_view.dart';
+import 'package:anggi_driweather/ui/view/maps/maps_view.dart';
+import 'package:anggi_driweather/ui/view/onboard/onboard_view.dart';
 import 'package:anggi_driweather/service/weather_service.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

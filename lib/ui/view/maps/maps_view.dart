@@ -1,4 +1,6 @@
 import 'package:anggi_driweather/controllers/maps_controller.dart';
+import 'package:anggi_driweather/controllers/weather_controller.dart';
+import 'package:anggi_driweather/service/weather_service.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:get/get.dart';
@@ -10,6 +12,8 @@ class MapsView extends StatelessWidget {
   final marker = <Marker>[].obs;
 
   final MapsController getMapsController = Get.put(MapsController());
+
+  final WeatherController weatherController = Get.put(WeatherController(weatherService: Get.find<WeatherService>()));
 
   final searchController =  TextEditingController().obs;
 
@@ -29,6 +33,10 @@ class MapsView extends StatelessWidget {
                     prefixIcon: IconButton(
                       onPressed: () {
                         Get.back();
+
+                        Future.delayed(const Duration(seconds: 1), () {
+                          weatherController.onInit();
+                        });
                       },
                       icon: const Icon(Icons.arrow_back)
                     ),

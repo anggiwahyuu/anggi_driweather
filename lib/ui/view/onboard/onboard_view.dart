@@ -1,4 +1,4 @@
-import 'package:anggi_driweather/components/background.dart';
+import 'package:anggi_driweather/ui/components/background.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
